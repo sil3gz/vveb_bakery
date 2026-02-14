@@ -1,0 +1,20 @@
+ul {
+  list-style-type: none;
+}
+button {
+  color: #faf4ea;
+  background-color: #819b57;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+button:hover {
+  color: #31261a;
+  background-color: transparent;
+  border: 2px solid #819b57;
+}
+button:active {
+  color: #31261a;
+  background-color: transparent;
+  border: 2px solid #819b57;
+}
